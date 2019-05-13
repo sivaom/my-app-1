@@ -18,8 +18,8 @@
        color: 'good', 
        message: 'Welcome to Jenkins, Slack!', 
        teamDomain: 'javahomecloud',
-       tokenCredentialId: 'slack-demo'//
-   }
+       tokenCredentialId: 'slack-demo'
+   }//
 }
 
 
